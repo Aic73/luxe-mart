@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Rose Gold Face Serum",
+    "category": "Skincare",
+    "price": 2499,
+    "badge": "Best Seller",
+    "rating": 4.8,
+    "reviews": 124,
+    "description": "Luxury 24k rose gold infused anti-aging serum for radiant skin.",
+    "details": "Infused with real 24k gold particles, hyaluronic acid, and vitamin C. Reduces fine lines, brightens skin tone, and provides deep hydration. Suitable for all skin types.",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Oud Noir Perfume",
+    "category": "Fragrance",
+    "price": 4999,
+    "badge": "New Arrival",
+    "rating": 4.9,
+    "reviews": 89,
+    "description": "Deep smoky oud with hints of amber and musk. 100ml EDP.",
+    "details": "A masterful blend of rare oud wood, warm amber, and sensual musk. Long-lasting 12+ hour projection. Comes in an elegant black crystal bottle with gold accents.",
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Marble Candle Set",
+    "category": "Home Decor",
+    "price": 1899,
+    "badge": "",
+    "rating": 4.6,
+    "reviews": 56,
+    "description": "Set of 3 premium soy wax candles in marble finish holders.",
+    "details": "Hand-poured 100% natural soy wax candles with cotton wicks. Scents include lavender, sandalwood, and vanilla. Each candle burns for 40+ hours. Marble holders are reusable.",
+"image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=400&q=80"  
+  },
+  {
+    "id": 4,
+    "name": "Velvet Lip Collection",
+    "category": "Beauty",
+    "price": 1299,
+    "badge": "Best Seller",
+    "rating": 4.7,
+    "reviews": 203,
+    "description": "Set of 5 matte velvet lipsticks in exclusive luxury shades.",
+    "details": "Ultra-pigmented formula with a smooth matte finish. Enriched with vitamin E and shea butter for comfortable all-day wear. Shades include nude, rose, berry, red, and plum.",
+"image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Black Onyx Grooming Kit",
+    "category": "Grooming",
+    "price": 3499,
+    "badge": "New Arrival",
+    "rating": 4.5,
+    "reviews": 67,
+    "description": "Premium 7-piece grooming set in sleek black onyx finish.",
+    "details": "Complete grooming kit includes razor, trimmer, nail file, tweezers, scissors, comb, and travel case. All tools crafted from surgical-grade stainless steel with black onyx coating.",
+    "image": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=400&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Crystal Gift Hamper",
+    "category": "Gift Sets",
+    "price": 6999,
+    "badge": "Limited",
+    "rating": 5.0,
+    "reviews": 34,
+    "description": "Luxury curated gift hamper with premium skincare and fragrance.",
+    "details": "Includes Rose Gold Face Serum, Velvet Lip Collection, Marble Candle, and Oud Noir Perfume mini. Beautifully packaged in a crystal clear box with gold ribbon. Perfect for gifting.",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "24k Gold Eye Cream",
+    "category": "Skincare",
+    "price": 2999,
+    "badge": "",
+    "rating": 4.6,
+    "reviews": 91,
+    "description": "Under-eye treatment infused with real gold particles.",
+    "details": "Targets dark circles, puffiness, and fine lines. Contains real 24k gold, caffeine, and peptides. Apply morning and night for visible results in 2 weeks. 30ml airless pump bottle.",
+    "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Silk Pillowcase Set",
+    "category": "Home Decor",
+    "price": 2199,
+    "badge": "",
+    "rating": 4.8,
+    "reviews": 145,
+    "description": "100% pure mulberry silk pillowcase set in ivory and gold.",
+    "details": "22 momme weight pure mulberry silk. Reduces hair breakage and skin creasing. Naturally hypoallergenic and temperature regulating. Set includes 2 pillowcases in standard size.",
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+  }
+]
